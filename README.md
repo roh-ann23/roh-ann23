@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Car Blog Project**
 
-- 🌱 I’m currently learning **MongoDB,MySQL**
+- 🌱 I’m currently learning **MongoDB,MySQL,React**
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development,NodeJs Developement**
 
 - 📫 How to reach me **rohanjadhavronny04@gmail.com**
 
-- ⚡ Fun fact **I am Coder**
+- ⚡ Fun fact **Code can fix bugs, but life can't be debugged.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
