@@ -1,38 +1,108 @@
+# 👋 Hey, I'm Rohan Jadhav
 
-![MasterHead](   https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hola, I'm Rohan Jadhav 👋</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
-<img align="right" width="450" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ"alt="Coder" > 
+### Backend Developer • AI Automation Engineer • GenAI Enthusiast
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roh-ann23&label=Profile%20views&color=0e75b6&style=flat" alt="roh-ann23" /> </p>
+Building scalable backend systems, AI-powered automation workflows, and GenAI applications using Node.js, n8n, Botpress, OpenAI, and modern backend architectures.
 
-<p align="left"> <a href="https://twitter.com/rohhann23" target="blank"><img src="https://img.shields.io/twitter/follow/rohhann23?logo=twitter&style=for-the-badge" alt="rohhann23" /></a> </p>
+<img align="right" width="380" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif" />
 
-- 🔭 I’m currently working on **Real Time Chat Application**
+---
 
-- 🌱 I’m currently learning **React,MySQL**
+## 🚀 About Me
 
-- 💬 Ask me about **Web Development**
+* 🔭 Currently working on **AI Automation & GenAI Systems**
+* 🤖 Building workflows using **n8n, Botpress, OpenAI & OpenClaw**
+* ⚙️ Backend-focused developer experienced in scalable APIs & workflow orchestration
+* 🧠 Exploring **AI Agents, RAG Pipelines & LLM Workflows**
+* 🌐 Experienced in payment gateways, telephony systems & third-party integrations
+* 📫 Reach me at: **[rohanjadhavronny04@gmail.com](mailto:rohanjadhavronny04@gmail.com)**
 
-- 📫 How to reach me **rohanjadhavronny04@gmail.com**
+---
 
-- ⚡ Fun fact **Code can fix bugs, but life can't be debugged.**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rohhann23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohhann23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohan-jadhav-21a337246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-jadhav-21a337246" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23906707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23906707" height="30" width="40" /></a>
-<a href="https://instagram.com/roh.annn_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="roh.annn_23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rohanjadhavronn1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rohanjadhavronn1" height="30" width="40" /></a>
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,supabase" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roh-ann23&show_icons=true&locale=en&layout=compact" alt="roh-ann23" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roh-ann23&show_icons=true&locale=en" alt="roh-ann23" /></p>
+### AI / Automation
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roh-ann23&" alt="roh-ann23" /></p>
+<p>
+<img src="https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Botpress-Chatbot-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenAI-LLM-black?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-Pipelines-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenClaw-Agent%20Workflows-red?style=for-the-badge" />
+</p>
 
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Infinium Global Research
+
+AI-powered automation platform with:
+
+* RAG pipelines
+* OpenClaw workflows
+* Kling API integrations
+* AI content automation
+* Dynamic n8n orchestration
+
+### ⚡ AI Council
+
+Real-time AI communication platform using:
+
+* Node.js
+* Socket.io
+* Supabase
+* Botpress integrations
+* Workflow automation systems
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/rohan-jadhav-21a337246" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://github.com/roh-ann23" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" />
+</a>
+
+<a href="mailto:rohanjadhavronny04@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=roh-ann23&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roh-ann23&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=roh-ann23&theme=tokyonight" />
+</p>
